@@ -1,0 +1,34 @@
+body {
+background-color: blanchedalmond;
+}
+
+.todo {
+  background-color: darkgray;
+  width: 700px;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #f5c6c6;
+  border-radius: 20px;
+  filter: drop-shadow(0 0 1rem blue);
+}
+
+.app {
+  background-color: darkgray;
+  width: 780px;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid white;
+  border-radius: 10px;
+  filter: drop-shadow(0 0 1rem blue);
+}
+
+
+.addTodo {
+  background-color: darkgray;
+  width: 700px;
+  margin: 20px;
+  padding: 20px;
+  border: 3px solid #f5c6c6;
+  border-radius: 10px;
+  filter: drop-shadow(0 0 1rem rgb(58, 58, 126));
+}
