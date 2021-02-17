@@ -1,1 +1,1 @@
-React+Mobx ToDo list
+React+MobX ToDo list
