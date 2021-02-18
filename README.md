@@ -1,1 +1,2 @@
-React+MobX ToDo list
++ в копилку применение технологий
+ToDo list React+MobX
